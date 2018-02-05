@@ -14,7 +14,7 @@ name: ConfigEditor
 author:  Ad5001
 description: Too lazy to go to a folder and edit configs? Do it directly in game !
 version: 1.0
-api: [2.0.0, 3.0.0-ALPHA1, 3.0.0-ALPHA2, 3.0.0-ALPHA3]
+api: [3.0.0-ALPHA11]
 main: Ad5001\ConfigEditor\Main
 commands:
     cfg:
